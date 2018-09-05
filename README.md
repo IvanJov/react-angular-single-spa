@@ -1,4 +1,4 @@
-# react-angular-single-spa
+# React and Angular single-spa example
 This is the code for tutorial posted on [https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/](https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/)
 
 ## Running the app
