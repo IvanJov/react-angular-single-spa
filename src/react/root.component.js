@@ -16,7 +16,7 @@ export default class Root extends React.Component {
     e.on('received', this.messageHandler)
   }
 
-  componentDidUnmount() {
+  componentWillUnmount() {
     e.off('received', this.messageHandler)
   }
 
